@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I am not a smart person but I am a "somehow get it done" person
 -->
+This is my basic python projects works.
